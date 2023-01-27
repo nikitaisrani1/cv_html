@@ -1,0 +1,21 @@
+img{
+  display: inline-block;
+  border-radius: 50%;
+  border: 5px solid #06d4bc;
+}
+hr{
+  border: 1px solid black;
+}
+h3
+{
+  color: #06d4bc;
+}
+td
+{
+  padding: 30px;
+  padding-top: 0px;
+}
+.skill
+{
+  padding: 5px;
+}
